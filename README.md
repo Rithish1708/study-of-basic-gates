@@ -87,11 +87,14 @@ endmodule
 
 
 # RTL OUTPUT
-![Screenshot 2024-10-28 112418](https://github.com/user-attachments/assets/266b5098-f12e-4446-9f64-87abe06a1e9a)
+
+![Screenshot 2024-10-28 111539](https://github.com/user-attachments/assets/f6443f51-8354-4fb4-928f-d8ba3cb105b2)
 
 
 # OUTPUT WAVEFORM
-![Screenshot 2024-10-28 111539](https://github.com/user-attachments/assets/f6443f51-8354-4fb4-928f-d8ba3cb105b2)
+
+
+![Screenshot 2024-10-28 112418](https://github.com/user-attachments/assets/266b5098-f12e-4446-9f64-87abe06a1e9a)
 
 # RESULT
 studied and verified the truth table of logic gates in Quartus II using Verilog programming,verified successfully.
