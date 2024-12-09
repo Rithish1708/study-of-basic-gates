@@ -1,5 +1,5 @@
-### NAME:Rithish.R
-### REG NO:24900403
+# NAME:Rithish.R
+# REG NO:24900403
 # EXPERIMENT 1:study of logic gates
 
 # AIM 
